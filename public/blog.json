@@ -1,0 +1,53 @@
+[
+    {
+      "id": "001",
+      "coverImg": "/images/1.jpg",
+      "Title": "The_Art_of_Programming",
+      "Author": "John_Doe",
+      "Author Image": "/images/boy1.png",
+      "postedDate": "September_1,_2023",
+      "readingTime": 10,
+      "Hashtag": "#Programming_#Coding"
+    },
+    {
+      "id": "002",
+      "coverImg": "/images/2.jpg",
+      "Title": "Exploring_the_Universe",
+      "Author": "Jane_Smith",
+      "Author Image": "/images/boy2.png",
+      "postedDate": "August_28,_2023",
+      "readingTime": 15,
+      "Hashtag": "#Space_#Astronomy"
+    },
+    {
+      "id": "003",
+      "coverImg": "/images/3.jpg",
+      "Title": "Healthy_Cooking_Tips",
+      "Author": "Emily_Brown",
+      "Author Image": "/images/boy1.png",
+      "postedDate": "September_5,_2023",
+      "readingTime": 8,
+      "Hashtag": "#Cooking_#HealthyLiving"
+    },
+    {
+      "id": "004",
+      "coverImg": "/images/4.jpg",
+      "Title": "Financial_Planning_101",
+      "Author": "Michael_Johnson",
+      "Author Image": "/images/profile.png",
+      "postedDate": "September_10,_2023",
+      "readingTime": 12,
+      "Hashtag": "#Finance_#Investing"
+    },
+    {
+      "id": "005",
+      "coverImg": "/images/5.jpg",
+      "Title": "Traveling_on_a_Budget",
+      "Author": "Sarah_Miller",
+      "Author Image": "/images/boy2.png",
+      "postedDate": "August_25,_2023",
+      "readingTime": 9,
+      "Hashtag": "#Travel_#BudgetTravel"
+    }
+  ]
+  
