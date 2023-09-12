@@ -43,5 +43,6 @@ function Blog({ blog, handleBookmarks,handleRead }) {
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
   handleBookmarks: PropTypes.func,
+  handleRead:PropTypes.func
 };
 export default Blog;
