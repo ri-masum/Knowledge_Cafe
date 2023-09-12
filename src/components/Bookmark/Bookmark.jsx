@@ -16,6 +16,6 @@ function Bookmark({bookmark}) {
 }
 
 Bookmark.propTypes={
-    bookmarks:PropTypes.object
+    bookmark:PropTypes.object
 }
 export default Bookmark;
